@@ -12,6 +12,8 @@ Steps :
 
 git clone https://github.com/Meikelrizkyhartawan/ebdesk-monitoring-base.git
 
+cd ebdesk-monitoring-base
+
 chmod +x main-base.sh
 
 ./main-base.sh
