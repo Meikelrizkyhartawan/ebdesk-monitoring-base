@@ -26,7 +26,8 @@ chmod +x *
 
 ./main-base.sh
 
-
 Choose what exporter that you need to install.
+
+![alt text](image.png)
 
 Example : 1. Will install GPU exporter and Node exporter.
